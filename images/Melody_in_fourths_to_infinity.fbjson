@@ -384,7 +384,8 @@
       "type": "note",
       "color": "#7fa25a",
       "shape": "circle",
-      "visibility": "visible"
+      "visibility": "visible",
+      "noteText": "M7"
     },
     "f3-s11": {
       "type": "note",
