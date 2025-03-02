@@ -7,6 +7,8 @@
 /* for Space Grotesk font */
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+/* mono */
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* Body */
 html {
@@ -139,10 +141,12 @@ pre {
   margin-top: 0px;
   margin-bottom: 2.5rem;
   font-size: 0.9em;
+  font-family: "Space Mono", monospace
 }
 
 code, kbd, samp {
   font-size: 0.9em;
+  font-family: "Space Mono", monospace
   padding: 0 0.5em;
   background-color: #f1f1f1;
   white-space: pre-wrap;
@@ -153,6 +157,7 @@ pre > code {
   background-color: transparent;
   white-space: pre;
   font-size: 1em;
+  font-family: "Space Mono", monospace
 }
 
 /* Tables */
