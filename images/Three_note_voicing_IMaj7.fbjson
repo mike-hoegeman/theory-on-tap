@@ -1,6 +1,6 @@
 {
   "cfg": {
-    "title": "Three note voicing: V7: ( R + M3 + dom7  )",
+    "title": "Three note voicing: IMaj7: ( R + M7 + M10=M3 up 1 octave )",
     "stringDisplayWidths": [
       0.4,
       0.6,
@@ -315,15 +315,16 @@
     },
     "f3-s7": {
       "type": "note",
-      "color": "#eae4d7",
-      "shape": "circle",
-      "visibility": "hidden"
-    },
-    "f3-s8": {
-      "type": "note",
       "color": "#7fa25a",
       "shape": "circle",
       "visibility": "visible",
+      "noteText": "R"
+    },
+    "f3-s8": {
+      "type": "note",
+      "color": "#eae4d7",
+      "shape": "circle",
+      "visibility": "hidden",
       "noteText": "R"
     },
     "f3-s9": {
@@ -518,7 +519,8 @@
       "type": "note",
       "color": "#eae4d7",
       "shape": "circle",
-      "visibility": "hidden"
+      "visibility": "hidden",
+      "noteText": "R"
     },
     "f6-s5": {
       "type": "note",
@@ -570,16 +572,17 @@
     },
     "f7-s1": {
       "type": "note",
-      "color": "#eae4d7",
+      "color": "#7aa7cb",
       "shape": "circle",
-      "visibility": "hidden"
+      "visibility": "visible",
+      "noteText": "M10"
     },
     "f7-s2": {
       "type": "note",
       "color": "#7aa7cb",
       "shape": "circle",
       "visibility": "visible",
-      "noteText": "M3"
+      "noteText": "M7"
     },
     "f7-s3": {
       "type": "note",
@@ -644,9 +647,9 @@
     },
     "f8-s1": {
       "type": "note",
-      "color": "#7aa7cb",
-      "shape": "diamond",
-      "visibility": "visible",
+      "color": "#eae4d7",
+      "shape": "circle",
+      "visibility": "hidden",
       "noteText": "dom7"
     },
     "f8-s2": {
@@ -1222,7 +1225,7 @@
     "startFret": 3,
     "endFret": 9,
     "enharmonic": 0,
-    "intervalRoot": null,
+    "intervalRoot": {},
     "numFrets": 6,
     "fretboardWidth": 420
   }

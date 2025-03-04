@@ -1,6 +1,6 @@
 {
   "cfg": {
-    "title": "Three note voicing: II m7: ( m10=m3 up 1 octave )",
+    "title": "Three note voicing: II m7: ( R + m7 + m10=m3 up 1 octave )",
     "stringDisplayWidths": [
       0.4,
       0.6,
@@ -1213,12 +1213,12 @@
     }
   },
   "state": {
-    "selectedAnnotation": null,
+    "selectedAnnotation": {},
     "selected": null,
     "visibility": "hidden",
     "startFret": 3,
     "endFret": 9,
-    "enharmonic": 1,
+    "enharmonic": 0,
     "intervalRoot": null,
     "numFrets": 6,
     "fretboardWidth": 420
