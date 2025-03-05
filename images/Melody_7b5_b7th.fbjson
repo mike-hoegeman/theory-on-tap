@@ -1,6 +1,6 @@
 {
   "cfg": {
-    "title": "Melody min7",
+    "title": "Melody 7b5/b7th",
     "stringDisplayWidths": [
       0.4,
       0.6,
@@ -63,10 +63,10 @@
     },
     "f2-s3": {
       "type": "note",
-      "color": "#7aa7cb",
+      "color": "#eae4d7",
       "shape": "circle",
       "visibility": "visible",
-      "noteText": "m3"
+      "noteText": "R"
     },
     "f2-s4": {
       "type": "note",
@@ -94,9 +94,10 @@
     },
     "f3-s2": {
       "type": "note",
-      "color": "#eae4d7",
+      "color": "#7aa7cb",
       "shape": "circle",
-      "visibility": "hidden"
+      "visibility": "visible",
+      "noteText": "b5"
     },
     "f3-s3": {
       "type": "note",
@@ -130,10 +131,10 @@
     },
     "f4-s2": {
       "type": "note",
-      "color": "#7aa7cb",
-      "shape": "diamond",
-      "visibility": "visible",
-      "noteText": "M7"
+      "color": "#eae4d7",
+      "shape": "circle",
+      "visibility": "hidden",
+      "noteText": "P5"
     },
     "f4-s3": {
       "type": "note",
@@ -144,11 +145,47 @@
     "f4-s4": {
       "type": "note",
       "color": "#eae4d7",
-      "shape": "triangle",
-      "visibility": "visible",
-      "noteText": "R"
+      "shape": "circle",
+      "visibility": "hidden"
     },
     "f4-s5": {
+      "type": "note",
+      "color": "#eae4d7",
+      "shape": "circle",
+      "visibility": "hidden"
+    },
+    "f5-s0": {
+      "type": "note",
+      "color": "#eae4d7",
+      "shape": "circle",
+      "visibility": "hidden"
+    },
+    "f5-s1": {
+      "type": "note",
+      "color": "#eae4d7",
+      "shape": "circle",
+      "visibility": "hidden"
+    },
+    "f5-s2": {
+      "type": "note",
+      "color": "#eae4d7",
+      "shape": "circle",
+      "visibility": "hidden"
+    },
+    "f5-s3": {
+      "type": "note",
+      "color": "#eae4d7",
+      "shape": "circle",
+      "visibility": "hidden"
+    },
+    "f5-s4": {
+      "type": "note",
+      "color": "#7aa7cb",
+      "shape": "triangle",
+      "visibility": "visible",
+      "noteText": "b7"
+    },
+    "f5-s5": {
       "type": "note",
       "color": "#eae4d7",
       "shape": "circle",
@@ -160,10 +197,10 @@
     "selected": null,
     "visibility": "hidden",
     "startFret": 2,
-    "endFret": 5,
-    "enharmonic": 1,
-    "intervalRoot": null,
-    "numFrets": 3,
-    "fretboardWidth": 210
+    "endFret": 6,
+    "enharmonic": 0,
+    "intervalRoot": {},
+    "numFrets": 4,
+    "fretboardWidth": 280
   }
 }

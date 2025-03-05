@@ -1,6 +1,6 @@
 {
   "cfg": {
-    "title": "Melody min7",
+    "title": "Melody dim7",
     "stringDisplayWidths": [
       0.4,
       0.6,
@@ -94,9 +94,10 @@
     },
     "f3-s2": {
       "type": "note",
-      "color": "#eae4d7",
-      "shape": "circle",
-      "visibility": "hidden"
+      "color": "#7aa7cb",
+      "shape": "diamond",
+      "visibility": "visible",
+      "noteText": "dim7"
     },
     "f3-s3": {
       "type": "note",
@@ -130,9 +131,9 @@
     },
     "f4-s2": {
       "type": "note",
-      "color": "#7aa7cb",
-      "shape": "diamond",
-      "visibility": "visible",
+      "color": "#eae4d7",
+      "shape": "circle",
+      "visibility": "hidden",
       "noteText": "M7"
     },
     "f4-s3": {
@@ -162,7 +163,7 @@
     "startFret": 2,
     "endFret": 5,
     "enharmonic": 1,
-    "intervalRoot": null,
+    "intervalRoot": {},
     "numFrets": 3,
     "fretboardWidth": 210
   }
