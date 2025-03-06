@@ -605,7 +605,7 @@
     "startFret": 7,
     "endFret": 17,
     "enharmonic": 0,
-    "intervalRoot": {},
+    "intervalRoot": null,
     "numFrets": 10,
     "fretboardWidth": 700
   }
