@@ -31,17 +31,19 @@ body {
 @media (max-width: 850px) {
   body {
     font-size: 1.53rem;
+    font-weight: 300;
   }
 }
 @media (max-width: 382px) {
   body {
     font-size: 1.35rem;
+    font-weight: 300;
   }
 }
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   font-family: "Space Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-  font-weight: 700;
+  font-weight: 300;
   margin-top: 3rem;
   margin-bottom: 1.5rem;
   overflow-wrap: break-word;
