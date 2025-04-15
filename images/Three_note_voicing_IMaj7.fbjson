@@ -1,6 +1,6 @@
 {
   "cfg": {
-    "title": "Three note voicing: IMaj7: ( R + M7 + M10=M3 up 1 octave )",
+    "title": "Three note voicing: IMaj7",
     "stringDisplayWidths": [
       0.4,
       0.6,
@@ -575,7 +575,7 @@
       "color": "#7aa7cb",
       "shape": "circle",
       "visibility": "visible",
-      "noteText": "M10"
+      "noteText": "M3"
     },
     "f7-s2": {
       "type": "note",
@@ -1219,14 +1219,14 @@
     }
   },
   "state": {
-    "selectedAnnotation": {},
+    "selectedAnnotation": null,
     "selected": null,
     "visibility": "hidden",
     "startFret": 3,
-    "endFret": 9,
+    "endFret": 8,
     "enharmonic": 0,
-    "intervalRoot": {},
-    "numFrets": 6,
-    "fretboardWidth": 420
+    "intervalRoot": null,
+    "numFrets": 5,
+    "fretboardWidth": 350
   }
 }
